@@ -1,6 +1,6 @@
 # DeFi Perpetuals — No-Arbitrage Bounds
 
-Empirical analysis accompanying *Arbitrage Bounds for DeFi Perpetual Contracts*, Erce Erez and Prof. Mikhail Smirnov (Columbia University). The paper adapts the no-arbitrage framework of Dai, Li, and Yang (2024) to on-chain decentralized perpetual exchanges — Drift Protocol and dYdX v4 — where oracle-based funding mechanisms introduce a tracking error layer absent from centralized venues.
+Empirical analysis accompanying *Arbitrage Bounds for DeFi Perpetual Contracts*. The paper adapts the no-arbitrage framework of Dai, Li, and Yang (2024) to on-chain decentralized perpetual exchanges — Drift Protocol and dYdX v4 — where oracle-based funding mechanisms introduce a tracking error layer absent from centralized venues.
 
 ---
 
